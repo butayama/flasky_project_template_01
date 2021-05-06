@@ -1,4 +1,4 @@
 #!/bin/sh
 # flask db upgrade
-flask translate compile
+# flask translate compile
 exec gunicorn -b :5000 --access-logfile - --error-logfile - osteotomy:app
