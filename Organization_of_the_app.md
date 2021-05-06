@@ -35,12 +35,12 @@ Blueprints
 
 Application Script
 ------------------
-app.py: main script  
+osteotomy.py: main script  
 The configuration is taken from the environment variable FLASK_CONFIG if it’s defined, or else the default configuration is used  
 Linux:
-export FLASK_APP=app.py
+export FLASK_APP=osteotomy.py
 Windows:
-set FLASK_APP=app.py
+set FLASK_APP=osteotomy.py
 
 Unit Tests
 ----------
