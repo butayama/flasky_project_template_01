@@ -1,3 +1,9 @@
+Sources:
+--------  
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-app-using-gunicorn-to-app-platform
+https://medium.com/trabe/deploying-a-flask-application-with-gunicorn-and-docker-2bc7c4c10dd4
+
+
 configuration  
 -------------
 
